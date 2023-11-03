@@ -26,14 +26,16 @@ Projeto Agencia de viagens -  Desenvolvido para a Segunda entrega da RecodePro.
 
 ## Terceira Entrega:
 
- ## Back-end 
+ <h3> Back-end </h3>
 
 - [x] Construa o back-end usando tecnologias Java (Estrutura de dados Classes), conexão com MySql usando o padrão de projeto MVC (Implementado o CRUD básico para todas as tabelas do modelo de dados).  
 
 
-## Front-end 
+<h3>Front-end </h3>
 
 - [x] Criar uma nova versão do site usando o padrão de projeto MVC (Model, View, Controller (Conectar todas as telas de cadastro ao banco de dados usando o padrão de projetos MVC). 
+
+
 
 ## Ultima Entrega:
 
