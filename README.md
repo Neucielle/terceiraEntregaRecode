@@ -1,4 +1,4 @@
-# terceiraEntregaRecode
+# TerceiraEntregaRecode
 Projeto Agencia de viagens -  Desenvolvido para a Segunda entrega da RecodePro.
 
 # Entregas Recode
